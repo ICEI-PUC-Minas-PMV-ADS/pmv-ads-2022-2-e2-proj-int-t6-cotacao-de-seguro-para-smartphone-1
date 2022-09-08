@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Cotação de Seguro Para Smartphone
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação WInterariva`
 
-`SEMESTRE`
+`Eixo 2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ayrles Alves De Lima Sales
+* Bruno Olimpio Timóteo
+* Guilherme Servelo Da Costa
+* Leandro Furtado De Sousa
+* Letícia Amorim Costa
+* Leonardo Moreira Franco De Souza
+* Lia Araruna De Lima
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon De Alencar
 
 ## Instruções de utilização
 

@@ -2,7 +2,7 @@
 
 `Análise e Desenvolvimento de Sistemas`
 
-`Projeto: Desenvolvimento de uma Aplicação WInterariva`
+`Projeto: Desenvolvimento de uma Aplicação Interariva`
 
 `Eixo 2`
 

@@ -69,7 +69,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| A aplicação deverá ser entregue no final do semestre letivo, não podendo extrapolar o mês de novembro. |
 |02| A aplicação deve se restringir às tecnologias básicas da Web no Frontend e Backend.       |
-|03| A equipe não pode subcontratar o desenvolvimento do trabalho.       |
+|03| A equipe deve utilizar as tecnologias apresentadas. |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.

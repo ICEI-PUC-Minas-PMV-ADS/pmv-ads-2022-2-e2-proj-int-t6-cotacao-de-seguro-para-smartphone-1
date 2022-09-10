@@ -34,7 +34,7 @@ Abaixo as tabelas detalham todos os requisitos funcionais e não funcionais do p
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve conter e permitir ao usuário a realização de uma cotação de seguro | ALTA | 
+|RF-001| A aplicação deve conter e permitir ao usuário a realização de uma cotação de seguro de forma precisa e sem complexidade. | ALTA | 
 |RF-002| A aplicação deve permitir que o usuário realize o seu cadastro a partir dos seus dados pessoais e os dados do seu smartphone (ano de fabricação, modelo, marca e tempo de uso).   | ALTA |
 |RF-003| A aplicação deve permitir que o usuário acesse sua área do cliente a partir do uso de login e senha. | ALTA | 
 |RF-004| A aplicação deve mostrar para usuários logados suas mensalidades a vencer (se houver um plano adquirido). | MÉDIA | 
@@ -43,28 +43,18 @@ Abaixo as tabelas detalham todos os requisitos funcionais e não funcionais do p
 |RF-007| A aplicação deve mostrar em sua tela inicial alguns tipos de coberturas que a empresa oferece. | BAIXA | 
 |RF-008| A aplicação deve permitir ao usuário cadastrado que edite suas informações de cadastro pessoal. | MÉDIA | 
 |RF-009| Após a realização da cotação, a aplicação deve direcionar o usuário diretamente para o whatsapp com algum atendente para finalizar a contratação do seguro. | ALTA | 
+|RF-010| A aplicação deve mostrar os dados de contato da empresa para solicitação de assistência técnica imediata e transferir o usuário para o atendimento 24 horas (WhatsApp). | ALTA | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| A aplicação deverá ser responsivo permitindo a visualização em um mobile de forma adequada e compreensiva. | ALTA | 
+|RNF-002| A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade. |  MÉDIA | 
+|RNF-003| A aplicação deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
+|RNF-004| A aplicação não deve revelar nenhuma informação pessoal dos clientes como por exemplo o CPF |  MÉDIA | 
+|RNF-005| A aplicação deve processar o calculo da cotação em até 5 segundos |  BAIXA | 
+|RNF-006| A aplicação deve ser desenvolvida nas linguagens JavaScript, HTML, CSS. (Front-End) |  ALTA | 
 
 ## Restrições
 
@@ -72,15 +62,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| A aplicação deverá ser entregue no final do semestre letivo, não podendo extrapolar o mês de novembro. |
+|02| A aplicação deve se restringir às tecnologias básicas da Web no Frontend e Backend.       |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.       |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 

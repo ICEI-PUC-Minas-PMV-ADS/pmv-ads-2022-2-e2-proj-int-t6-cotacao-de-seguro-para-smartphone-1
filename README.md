@@ -14,8 +14,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Bruno Olimpio Timóteo
 * Guilherme Servelo Da Costa
 * Leandro Furtado De Sousa
-* Letícia Amorim Costa
 * Leonardo Moreira Franco De Souza
+* Letícia Amorim Costa
 * Lia Araruna De Lima
 
 ## Orientador

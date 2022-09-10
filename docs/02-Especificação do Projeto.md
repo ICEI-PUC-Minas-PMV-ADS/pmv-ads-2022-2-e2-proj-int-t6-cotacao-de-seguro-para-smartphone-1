@@ -21,8 +21,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Laura Oliveira  | cotar os planos de seguro sem burocracia           | possuo dificuldade com tecnologia               |
+|Mariana Sousa       | segurança e tranquilidade                 | pois sei que com o seguro estou protegido e vou ser indenizado |
+|Laura Oliveira | proteger meu dinheiro           | devido ao alto valor de compra              |
+|Guilherme Amaral     | usar tranquilamente o celular em lugares externos               | porque é minha ferramenta de trabalho |
+|Guilherme Amaral | melhor custo na aquisição de um seguro para celular           | a fim de reduzir danos e prejuízos               |
+|Guilherme Amaral      | assistência técnica imediata caso o aparelho pare de funcionar              | por ter um respaldo caso aconteça qualquer problema independente do dia/horário |
+|Mariana Sousa  | proteger meu smartphone de forma simples e a preço acessível           | porque utilizo o transporte público para me locomover pela cidade e já tive um celular furtado anteriormente               |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

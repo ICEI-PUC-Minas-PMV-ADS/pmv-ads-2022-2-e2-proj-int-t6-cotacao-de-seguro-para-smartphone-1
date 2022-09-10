@@ -1,19 +1,17 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+As partes mais importantes para a solução do problema foi produzida como uma mistura de personas fictícias produzidas pelos membros do grupo e também baseadas em necessidades reais de possíveis usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir: 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Joana Oliveira tem 50 anos, é Professora. Nas horas livres gosta de caminhar a noite, escutando música ou ouvindo algum podcast. Sua maior motivação é transmitir conhecimento e ensinar as pessoas. Suas frutações são o alto risco de furto na região onde mora e a dificuldade com tecnologia. Utiliza muitos aplicativos, alguns deles são: Pinterest, Whatsapp, Aplicativos de bancos.
 
+Guilherme Amaral tem 24 anos, é Digital Influêncier. Gosta de trabalhar com a internet, influênciando pessoas, gravando vídeos e divulgando marcas. Sua maior motivação é Influenciar as Pessoas positivamente e apresentar ao seu público bons produtos testatos e aprovados. Sua frustação é medo do seu smartphone sofrer qualquer dano que impossibilite de exercer seu trabalho. Utiliza muitos aplicativos, alguns deles são: Instagram, YouTube, Whatsapp, Telegram.
 
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Mariana Sousa tem 19 anos, é Estudante Universitária. Gosta de estudar e sair com seus amigos à noite. Sua maior motivação é se formar em Direito. Sua frustação é ter tido seu smartphone de alto valor aquisitivo roubado e usar transporte público. Utiliza muitos aplicativos, alguns deles são: Instagram, TikTok, Whatsapp, Aplicativos de bancos. 
+
 
 ## Histórias de Usuários
 
@@ -21,15 +19,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Laura Oliveira  | cotar os planos de seguro sem burocracia           | possuo dificuldade com tecnologia               |
+|Joana Oliveira  | cotar os planos de seguro sem burocracia           | possuo dificuldade com tecnologia               |
 |Mariana Sousa       | segurança e tranquilidade                 | pois sei que com o seguro estou protegido e vou ser indenizado |
-|Laura Oliveira | proteger meu dinheiro           | devido ao alto valor de compra              |
+|Joana Oliveira | proteger meu dinheiro           | devido ao alto valor de compra              |
 |Guilherme Amaral     | usar tranquilamente o celular em lugares externos               | porque é minha ferramenta de trabalho |
 |Guilherme Amaral | melhor custo na aquisição de um seguro para celular           | a fim de reduzir danos e prejuízos               |
 |Guilherme Amaral      | assistência técnica imediata caso o aparelho pare de funcionar              | por ter um respaldo caso aconteça qualquer problema independente do dia/horário |
 |Mariana Sousa  | proteger meu smartphone de forma simples e a preço acessível           | porque utilizo o transporte público para me locomover pela cidade e já tive um celular furtado anteriormente               |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 ## Requisitos
 
@@ -70,10 +66,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| A aplicação deverá ser entregue no final do semestre letivo, não podendo extrapolar o mês de novembro. |
 |02| A aplicação deve se restringir às tecnologias básicas da Web no Frontend e Backend.       |
 |03| A equipe deve utilizar as tecnologias apresentadas. |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
 
 ## Diagrama de Casos de Uso
 
